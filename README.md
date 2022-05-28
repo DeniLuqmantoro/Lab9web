@@ -63,38 +63,45 @@ Implementasikan konsep modularisasi pada kode program praktikum 8 tentang databa
  ![image](https://user-images.githubusercontent.com/101716699/170821337-bbc235ec-4e09-4625-8376-87bbd25fa5c0.png)
 ![image](https://user-images.githubusercontent.com/101716699/170821343-c3056b64-182e-4156-bc4d-454d5c1da2d3.png)
 
-
 Simpan dan coba buka pada browser dengan link http://localhost/lab9_php_modular/tugas_modular/index.php
  
+![image](https://user-images.githubusercontent.com/101716699/170821395-4ee9709e-26ce-47ce-8ea5-35fc853f16dd.png)
 
 6.	Selanjutnya kita modularkan halaman tambah dengan membuat file baru header_tambah.php, kita ambil bagian header sesuai dengan yang dibutuhkan pada file tambah.php di praktikum 8.
  
- 
+ ![image](https://user-images.githubusercontent.com/101716699/170821408-5701dd7c-ead0-4501-a1a2-9642e3f3f677.png)
+![image](https://user-images.githubusercontent.com/101716699/170821410-998d1432-4492-47de-aab6-a7072a7e4f12.png)
 
 7.	Buat file footer_tambah.php yang kita ambil dari tambah.php pada praktikum 8
  
+![image](https://user-images.githubusercontent.com/101716699/170821423-84e4f1cc-0173-4cb2-8839-a46f4d5f19bb.png)
 
 8.	Buat file tambah.php, kita ambil bagian body atau content dari tambah.php pada praktikum 8, dan kemudian tambahkan syntax <?php require('header_tambah.php'); ?> pada bagian atas body dan <?php require('footer_tambah.php'); ?> pada bagian bawah body tambah.php
  
- 
+ ![image](https://user-images.githubusercontent.com/101716699/170821439-608c088e-df4e-4114-a71c-ab128005b5d5.png)
+![image](https://user-images.githubusercontent.com/101716699/170821441-39976d7f-7584-4ea7-9348-69ccedbe450c.png)
 
 Simpan dan coba buka pada browser dengan klik nav tambah atau dengan link http://localhost/lab9_php_modular/tugas_modular/tambah.php
  
+![image](https://user-images.githubusercontent.com/101716699/170821455-3e677aae-8c70-4a83-bcc0-c5c83c533232.png)
 
 9.	Selanjutnya kita modularkan halaman ubah dengan membuat file baru header_ubah.php, kita ambil bagian header sesuai dengan yang dibutuhkan pada file ubah.php di praktikum 8.
  
- 
- 
- 
+ ![image](https://user-images.githubusercontent.com/101716699/170821479-d34ea98d-d314-447e-8e1c-3fa761389235.png)
+![image](https://user-images.githubusercontent.com/101716699/170821482-e10964d3-4943-4e67-831f-dcad66a592f9.png)
+![image](https://user-images.githubusercontent.com/101716699/170821485-15e8c703-acb7-4976-8dfd-0218e7cb489f.png)
+![image](https://user-images.githubusercontent.com/101716699/170821487-2f99346d-9c69-4c4d-a6c3-043c621791b7.png)
 
 10.	Buat file footer_ubah.php yang kita ambil dari ubah.php pada praktikum 8
  
+![image](https://user-images.githubusercontent.com/101716699/170821501-7ace06be-c7cd-4847-9130-7d81c7651941.png)
 
 11.	Buat file ubah.php, kita ambil bagian body atau content dari ubah.php pada praktikum 8, dan kemudian tambahkan syntax <?php require('header_ubah.php'); ?> pada bagian atas body dan <?php require('footer_ubah.php'); ?> pada bagian bawah body ubah.php
  
- 
+ ![image](https://user-images.githubusercontent.com/101716699/170821512-7aea7083-9039-40f4-a340-3dfe8a6184e2.png)
+![image](https://user-images.githubusercontent.com/101716699/170821515-32302bbd-739f-440b-844d-0d439a755b04.png)
 
 Simpan dan coba buka pada browser dengan klik nav ubah.
  
-
+![image](https://user-images.githubusercontent.com/101716699/170821656-34881b9a-d3b8-4239-9dc6-5f5151b63296.png)
 
