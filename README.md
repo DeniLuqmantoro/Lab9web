@@ -58,7 +58,7 @@ Implementasikan konsep modularisasi pada kode program praktikum 8 tentang databa
  
 ![image](https://user-images.githubusercontent.com/101716699/170821308-55f8ed2a-64ce-45e0-8fa1-257d6ba590c9.png)
 
-5.	Buat file index.php, kita ambil bagian body atau content dari index.php pada praktikum 8, dan kemudian tambahkan syntax <?php require('header_index.php'); ?> pada bagian atas body dan <?php require('footer_index.php'); ?> pada bagian bawah body index.php
+5.	Buat file index.php, kita ambil bagian body atau content dari index.php pada praktikum 8, dan kemudian tambahkan syntax &lt;?php require('header_index.php'); ?&gt; pada bagian atas body dan <?php require('footer_index.php'); ?> pada bagian bawah body index.php
  
  ![image](https://user-images.githubusercontent.com/101716699/170821337-bbc235ec-4e09-4625-8376-87bbd25fa5c0.png)
 ![image](https://user-images.githubusercontent.com/101716699/170821343-c3056b64-182e-4156-bc4d-454d5c1da2d3.png)
@@ -76,7 +76,7 @@ Simpan dan coba buka pada browser dengan link http://localhost/lab9_php_modular/
  
 ![image](https://user-images.githubusercontent.com/101716699/170821423-84e4f1cc-0173-4cb2-8839-a46f4d5f19bb.png)
 
-8.	Buat file tambah.php, kita ambil bagian body atau content dari tambah.php pada praktikum 8, dan kemudian tambahkan syntax <?php require('header_tambah.php'); ?> pada bagian atas body dan <?php require('footer_tambah.php'); ?> pada bagian bawah body tambah.php
+8.	Buat file tambah.php, kita ambil bagian body atau content dari tambah.php pada praktikum 8, dan kemudian tambahkan syntax <?php require('header_tambah.php'); ?> pada bagian atas body dan &lt;?php require('footer_tambah.php'); ?&gt; pada bagian bawah body tambah.php
  
  ![image](https://user-images.githubusercontent.com/101716699/170821439-608c088e-df4e-4114-a71c-ab128005b5d5.png)
 ![image](https://user-images.githubusercontent.com/101716699/170821441-39976d7f-7584-4ea7-9348-69ccedbe450c.png)
@@ -96,7 +96,7 @@ Simpan dan coba buka pada browser dengan klik nav tambah atau dengan link http:/
  
 ![image](https://user-images.githubusercontent.com/101716699/170821501-7ace06be-c7cd-4847-9130-7d81c7651941.png)
 
-11.	Buat file ubah.php, kita ambil bagian body atau content dari ubah.php pada praktikum 8, dan kemudian tambahkan syntax <?php require('header_ubah.php'); ?> pada bagian atas body dan <?php require('footer_ubah.php'); ?> pada bagian bawah body ubah.php
+11.	Buat file ubah.php, kita ambil bagian body atau content dari ubah.php pada praktikum 8, dan kemudian tambahkan syntax <?php require('header_ubah.php'); ?> pada bagian atas body dan &lt;?php require('footer_ubah.php'); ?&gt; pada bagian bawah body ubah.php
  
  ![image](https://user-images.githubusercontent.com/101716699/170821512-7aea7083-9039-40f4-a340-3dfe8a6184e2.png)
 ![image](https://user-images.githubusercontent.com/101716699/170821515-32302bbd-739f-440b-844d-0d439a755b04.png)
